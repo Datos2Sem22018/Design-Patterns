@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ObserverRust"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ObserverRust">
+				<Option output="/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/ObserverRust" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 ObserverRust"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ObserverRust/fast">
+				<Option output="/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/ObserverRust" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 ObserverRust/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zuckerberg/CLionProjects/ObserverRust/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/Cargo.lock">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/Cargo.toml">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/src/main.rs">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/ObserverRust">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/ObserverRust.d">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/deps/ObserverRust-a3aadf8fd73c6d18.d">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/deps/ObserverRust-edeac3eee7eedc3a">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/deps/ObserverRust-edeac3eee7eedc3a.d">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/deps/ObserverRust-f581f5996a6c485d.d">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/deps/libObserverRust-a3aadf8fd73c6d18.rmeta">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/deps/libObserverRust-f581f5996a6c485d.rmeta">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/16i0u6jlhoj1fwbo.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/16u6js6g0l3k1ic6.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/181cuta0v63atwcm.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/1fn5wyzcwspf3n0b.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/1im38lueib99jsk0.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/1jnlhyxj59jycbjv.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/1mvmz58owquyropc.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/1q8ffos2d96smbjs.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/1y16o1qfye96o7m0.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/1zwd8n7bcl3vhvvh.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/23tqyymcb18u96mb.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/2jqywn86b2gsqohu.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/2lyh15q6cjwzy18c.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/3ayaeypdcro9d6yk.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/3rngp6bm2u2q5z0y.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/48721dc4k5qxei0u.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/49a7n47po4ttqjl7.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/4oc10dk278mpk1vy.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/4xq48u46a1pwiqn7.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/4yh8x2b62dcih00t.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/4ypvbwho0bu5tnww.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/81jpvh8cn5k8ng8.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/8xzrsc1ux72v29j.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/98g0d9x8aw3akpe.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/9elsx31vb4it187.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/c6lbtaiefvx3wya.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/dep-graph.bin">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/oa3rad818d8sgn4.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/query-cache.bin">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/sace2zi1c4stee3.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/work-products.bin">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/y08g5q2x813c4wx.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8-2w6xuhilk5zi7/z9ox7biyn1otfln.o">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-1pmze1pc2rwr5/s-f4h8s9lgbd-1anl1n8.lock">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-2avkcpviii9wu/s-f4953zm7ek-lw8xpm-3umnglnc3yoqy/dep-graph.bin">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-2avkcpviii9wu/s-f4953zm7ek-lw8xpm-3umnglnc3yoqy/query-cache.bin">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-2avkcpviii9wu/s-f4953zm7ek-lw8xpm-3umnglnc3yoqy/work-products.bin">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-2avkcpviii9wu/s-f4953zm7ek-lw8xpm.lock">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-2r9z3r2fmqe61/s-f4953zm7e0-1o6jcab-37fx0t96qe7jb/dep-graph.bin">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-2r9z3r2fmqe61/s-f4953zm7e0-1o6jcab-37fx0t96qe7jb/query-cache.bin">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-2r9z3r2fmqe61/s-f4953zm7e0-1o6jcab-37fx0t96qe7jb/work-products.bin">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/incremental/ObserverRust-2r9z3r2fmqe61/s-f4953zm7e0-1o6jcab.lock">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/libObserverRust-a3aadf8fd73c6d18.d">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/libObserverRust-a3aadf8fd73c6d18.rmeta">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/libObserverRust.d">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/target/debug/libObserverRust.rmeta">
+			<Option target="ObserverRust"/>
+		</Unit>
+		<Unit filename="/home/zuckerberg/CLionProjects/ObserverRust/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
