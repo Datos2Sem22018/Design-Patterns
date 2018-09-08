@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zuckerberg/CLionProjects/Adapter/Circle.h
+
+/home/zuckerberg/CLionProjects/Adapter/CircleAdapter.cpp
+CircleAdapter.h
+/home/zuckerberg/CLionProjects/Adapter/CircleAdapter.h
+iostream
+-
+
+/home/zuckerberg/CLionProjects/Adapter/CircleAdapter.h
+SecondCircle.h
+/home/zuckerberg/CLionProjects/Adapter/SecondCircle.h
+Circle.h
+/home/zuckerberg/CLionProjects/Adapter/Circle.h
+
+/home/zuckerberg/CLionProjects/Adapter/SecondCircle.cpp
+SecondCircle.h
+/home/zuckerberg/CLionProjects/Adapter/SecondCircle.h
+iostream
+-
+
+/home/zuckerberg/CLionProjects/Adapter/SecondCircle.h
+Circle.h
+/home/zuckerberg/CLionProjects/Adapter/Circle.h
+
+/home/zuckerberg/CLionProjects/Adapter/main.cpp
+iostream
+-
+CircleAdapter.h
+/home/zuckerberg/CLionProjects/Adapter/CircleAdapter.h
+
