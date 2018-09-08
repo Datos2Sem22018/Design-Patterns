@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Africans.cpp
+Africans.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Africans.h
+Lion.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Lion.h
+Elephant.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Elephant.h
+iostream
+-
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Africans.h
+Factory.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Factory.h
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Animal.cpp
+Animal.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Animal.h
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Animal.h
+string
+-
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Deer.cpp
+Deer.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Deer.h
+iostream
+-
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Deer.h
+Animal.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Animal.h
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Elephant.cpp
+Elephant.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Elephant.h
+iostream
+-
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Elephant.h
+Animal.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Animal.h
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Europeans.cpp
+Europeans.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Europeans.h
+Deer.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Deer.h
+Wolf.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Wolf.h
+iostream
+-
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Europeans.h
+Factory.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Factory.h
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Factory.h
+Animal.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Animal.h
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Lion.cpp
+Lion.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Lion.h
+iostream
+-
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Lion.h
+Animal.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Animal.h
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Wolf.cpp
+Wolf.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Wolf.h
+iostream
+-
+
+/home/zuckerberg/CLionProjects/Abstract Factory/Wolf.h
+Animal.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Animal.h
+
+/home/zuckerberg/CLionProjects/Abstract Factory/main.cpp
+iostream
+-
+Factory.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Factory.h
+Africans.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Africans.h
+Europeans.h
+/home/zuckerberg/CLionProjects/Abstract Factory/Europeans.h
+
